@@ -3,14 +3,12 @@
 **Developer e progettista digitale** · Founder di [HASTE Collective](https://haste.it) · Marigliano (NA), Campania
 *codice · comunicazione · territorio*
 
-```text
 ╔══════════════════════════════════════╗
 ║                                      ║
 ║  DEVELOPER · DESIGNER · CIVIC TECH   ║
 ║  MARIGLIANO (NA) · CAMPANIA          ║
 ║                                      ║
 ╚══════════════════════════════════════╝
-```
 
 ## About
 
@@ -50,10 +48,6 @@ Disponibile per collaborazioni di sviluppo web, comunicazione digitale e gestion
 - Brand Streetwear, Inchieste HASTE
 - Il gioco MMORPG
 - Approfondire intelligenza artificiale e sviluppo software all'università
-
-## Contatti
-
-[haste.it](https://haste.it) · [info@haste.it](mailto:info@haste.it) · [Instagram](https://www.instagram.com/vincenzooallocca) · [GitHub](https://github.com/vincenzoallocca)
 
 ---
 
