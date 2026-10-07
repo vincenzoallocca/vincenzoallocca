@@ -2,13 +2,14 @@
 
 **Developer e progettista digitale** · Founder di [HASTE Collective](https://haste.it) · Marigliano (NA), Campania
 *codice · comunicazione · territorio*
-
+```text
 ╔══════════════════════════════════════╗
 ║                                      ║
 ║  DEVELOPER · DESIGNER · CIVIC TECH   ║
 ║  MARIGLIANO (NA) · CAMPANIA          ║
 ║                                      ║
 ╚══════════════════════════════════════╝
+```
 
 ## About
 
