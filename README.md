@@ -1,16 +1,5 @@
 # Vincenzo Allocca
 
-**Developer e progettista digitale** · Founder di [HASTE Collective](https://haste.it) · Marigliano (NA), Campania
-*codice · comunicazione · territorio*
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║  DEVELOPER · DESIGNER · CIVIC TECH   ║
-║  MARIGLIANO (NA) · CAMPANIA          ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
 ## About
 
 Studente di Ingegneria Informatica alla Federico II di Napoli e sviluppatore full-stack. Costruisco strumenti digitali che non siano solo belli da vedere, ma utili, accessibili e capaci di avere un impatto.
